@@ -1,0 +1,15 @@
+.bg-class {
+	font-weight: bold;
+	font-color:black;
+}
+
+
+.panel > .panel-heading {
+	background-color: grey;
+	color: black;
+	font-weight: bold;
+}
+
+textarea {
+	width: 100%;
+}

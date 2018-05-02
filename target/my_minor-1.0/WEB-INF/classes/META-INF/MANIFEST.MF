@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: my_minor
+Implementation-Version: 1.0
+Built-By: Samarth
+Implementation-Vendor-Id: project.minor
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/my_minor
+Created-By: Maven Integration for Eclipse
+
